@@ -13,7 +13,7 @@ int main()
    z1 = (sin(4* a)/ 1 + cos(4 * a)) * (cos(2* a)/ 1 + cos(2* a));
    z2 = 1.0/tan((3.0/2) *(Pi - a));
 
-   cout << endl;
+   cout << endl;// Ще один коментар
    cout << "z1= " << z1 << endl;
    cout << "z2= " << z2 << endl;
 
